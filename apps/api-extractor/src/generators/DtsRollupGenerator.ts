@@ -5,7 +5,7 @@
 
 import * as ts from 'typescript';
 import { FileSystem, NewlineKind, InternalError } from '@rushstack/node-core-library';
-import { ReleaseTag } from '@microsoft/api-extractor-model';
+import { ReleaseTag } from 'api-extractor-model-me';
 
 import { Collector } from '../collector/Collector';
 import { TypeScriptHelpers } from '../analyzer/TypeScriptHelpers';

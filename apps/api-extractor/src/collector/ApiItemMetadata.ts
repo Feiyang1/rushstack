@@ -2,7 +2,7 @@
 // See LICENSE in the project root for license information.
 
 import * as tsdoc from '@microsoft/tsdoc';
-import { ReleaseTag } from '@microsoft/api-extractor-model';
+import { ReleaseTag } from 'api-extractor-model-me';
 import { VisitorState } from './VisitorState';
 
 /**

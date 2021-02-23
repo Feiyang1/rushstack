@@ -31,7 +31,7 @@ import {
   ApiTypeAlias,
   ApiCallSignature,
   IApiTypeParameterOptions
-} from '@microsoft/api-extractor-model';
+} from 'api-extractor-model-me';
 
 import { Collector } from '../collector/Collector';
 import { AstDeclaration } from '../analyzer/AstDeclaration';

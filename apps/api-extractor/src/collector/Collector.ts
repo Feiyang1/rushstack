@@ -4,7 +4,7 @@
 import * as ts from 'typescript';
 import * as tsdoc from '@microsoft/tsdoc';
 import { PackageJsonLookup, Sort, InternalError } from '@rushstack/node-core-library';
-import { ReleaseTag, AedocDefinitions } from '@microsoft/api-extractor-model';
+import { ReleaseTag, AedocDefinitions } from 'api-extractor-model-me';
 
 import { ExtractorMessageId } from '../api/ExtractorMessageId';
 

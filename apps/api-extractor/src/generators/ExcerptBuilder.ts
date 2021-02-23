@@ -3,7 +3,7 @@
 
 import * as ts from 'typescript';
 import { DeclarationReference } from '@microsoft/tsdoc/lib-commonjs/beta/DeclarationReference';
-import { ExcerptTokenKind, IExcerptToken, IExcerptTokenRange } from '@microsoft/api-extractor-model';
+import { ExcerptTokenKind, IExcerptToken, IExcerptTokenRange } from 'api-extractor-model-me';
 
 import { Span } from '../analyzer/Span';
 import { DeclarationReferenceGenerator } from './DeclarationReferenceGenerator';

@@ -443,20 +443,20 @@
     //
     // "apps" folder (alphabetical order)
     {
-      "packageName": "@microsoft/api-documenter",
+      "packageName": "api-documenter-me",
       "projectFolder": "apps/api-documenter",
       "reviewCategory": "libraries",
       "shouldPublish": true
     },
     {
-      "packageName": "@microsoft/api-extractor",
+      "packageName": "api-extractor-me",
       "projectFolder": "apps/api-extractor",
       "reviewCategory": "libraries",
       "shouldPublish": true,
       "cyclicDependencyProjects": ["@rushstack/heft-node-rig", "@rushstack/heft"]
     },
     {
-      "packageName": "@microsoft/api-extractor-model",
+      "packageName": "api-extractor-model-me",
       "projectFolder": "apps/api-extractor-model",
       "reviewCategory": "libraries",
       "shouldPublish": true,

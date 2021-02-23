@@ -11,7 +11,7 @@ import { ApiItemMetadata } from '../collector/ApiItemMetadata';
 import { SymbolMetadata } from '../collector/SymbolMetadata';
 import { CollectorEntity } from '../collector/CollectorEntity';
 import { ExtractorMessageId } from '../api/ExtractorMessageId';
-import { ReleaseTag } from '@microsoft/api-extractor-model';
+import { ReleaseTag } from 'api-extractor-model-me';
 
 export class ValidationEnhancer {
   public static analyze(collector: Collector): void {

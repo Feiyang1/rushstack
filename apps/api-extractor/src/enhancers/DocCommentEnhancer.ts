@@ -8,7 +8,7 @@ import { Collector } from '../collector/Collector';
 import { AstSymbol } from '../analyzer/AstSymbol';
 import { AstDeclaration } from '../analyzer/AstDeclaration';
 import { ApiItemMetadata } from '../collector/ApiItemMetadata';
-import { AedocDefinitions, ReleaseTag } from '@microsoft/api-extractor-model';
+import { AedocDefinitions, ReleaseTag } from 'api-extractor-model-me';
 import { ExtractorMessageId } from '../api/ExtractorMessageId';
 import { VisitorState } from '../collector/VisitorState';
 import { ResolverFailure } from '../analyzer/AstReferenceResolver';

@@ -5,7 +5,7 @@ import colors from 'colors';
 import * as ts from 'typescript';
 import * as tsdoc from '@microsoft/tsdoc';
 import { Sort, InternalError, LegacyAdapters } from '@rushstack/node-core-library';
-import { AedocDefinitions } from '@microsoft/api-extractor-model';
+import { AedocDefinitions } from 'api-extractor-model-me';
 
 import { AstDeclaration } from '../analyzer/AstDeclaration';
 import { AstSymbol } from '../analyzer/AstSymbol';

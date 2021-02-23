@@ -17,7 +17,7 @@ import { ExtractorConfig } from './ExtractorConfig';
 import { Collector } from '../collector/Collector';
 import { DtsRollupGenerator, DtsRollupKind } from '../generators/DtsRollupGenerator';
 import { ApiModelGenerator } from '../generators/ApiModelGenerator';
-import { ApiPackage } from '@microsoft/api-extractor-model';
+import { ApiPackage } from 'api-extractor-model-me';
 import { ApiReportGenerator } from '../generators/ApiReportGenerator';
 import { PackageMetadataManager } from '../analyzer/PackageMetadataManager';
 import { ValidationEnhancer } from '../enhancers/ValidationEnhancer';
