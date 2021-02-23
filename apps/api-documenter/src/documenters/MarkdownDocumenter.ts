@@ -42,7 +42,7 @@ import {
   ApiTypeAlias,
   ExcerptToken,
   ApiOptionalMixin
-} from '@microsoft/api-extractor-model';
+} from 'api-extractor-model-me';
 
 import { CustomDocNodes } from '../nodes/CustomDocNodeKind';
 import { DocHeading } from '../nodes/DocHeading';

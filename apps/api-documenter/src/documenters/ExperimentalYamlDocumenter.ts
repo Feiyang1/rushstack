@@ -2,7 +2,7 @@
 // See LICENSE in the project root for license information.
 
 import { DocComment, DocInlineTag } from '@microsoft/tsdoc';
-import { ApiModel, ApiItem, ApiItemKind, ApiDocumentedItem } from '@microsoft/api-extractor-model';
+import { ApiModel, ApiItem, ApiItemKind, ApiDocumentedItem } from 'api-extractor-model-me';
 
 import { IConfigTableOfContents } from './IConfigFile';
 import { IYamlTocItem, IYamlTocFile } from '../yaml/IYamlTocFile';

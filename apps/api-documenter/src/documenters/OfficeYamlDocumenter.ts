@@ -5,7 +5,7 @@ import colors from 'colors';
 import * as path from 'path';
 import yaml = require('js-yaml');
 
-import { ApiModel } from '@microsoft/api-extractor-model';
+import { ApiModel } from 'api-extractor-model-me';
 import { Text, FileSystem } from '@rushstack/node-core-library';
 
 import { IYamlTocItem } from '../yaml/IYamlTocFile';

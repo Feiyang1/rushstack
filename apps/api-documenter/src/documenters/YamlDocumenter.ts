@@ -38,7 +38,7 @@ import {
   HeritageType,
   ApiVariable,
   ApiTypeAlias
-} from '@microsoft/api-extractor-model';
+} from 'api-extractor-model-me';
 import {
   DeclarationReference,
   Navigation,
